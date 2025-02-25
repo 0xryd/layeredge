@@ -257,3 +257,6 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [19:45:27 | 25-02-2025] ✅ Node started for 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26
+[23:28:53 | 25-02-2025] Wallet Address: 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26
+[23:28:53 | 25-02-2025] Node Points: 223156
+[23:28:53 | 25-02-2025] Last Claim Point: 25/02/2025 12:50:53
