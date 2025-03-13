@@ -568,3 +568,6 @@
 [19:46:51 | 13-03-2025] Last Claim Point: 12/03/2025 04:28:07
 [19:46:54 | 13-03-2025] ✅ Points claimed for 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26
 [19:46:55 | 13-03-2025] 🚨 Failed to start node for 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26: [object Object]
+[23:30:13 | 13-03-2025] Wallet Address: 0xF59C2ff3901753Ccc6B6E8FedcC957c131b7ab26
+[23:30:13 | 13-03-2025] Node Points: 640588
+[23:30:13 | 13-03-2025] Last Claim Point: 13/03/2025 12:46:53
